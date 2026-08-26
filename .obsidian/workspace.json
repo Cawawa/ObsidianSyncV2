@@ -11,10 +11,14 @@
             "id": "2a024429b6d55e42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Test di collegamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test di collegamento"
             }
           },
           {
@@ -145,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test di collegamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -196,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
