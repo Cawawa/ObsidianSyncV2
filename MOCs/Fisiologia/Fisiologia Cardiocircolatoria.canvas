@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"58d1adc90812b8de","type":"file","file":"Fisiologia 1/Sistole atriale.md","x":-2080,"y":-160,"width":520,"height":480},
+		{"id":"b78f1482ab3a78a0","type":"file","file":"Fisiologia 1/Sistole ventricolare.md","x":-1480,"y":-160,"width":480,"height":480},
+		{"id":"57dbbd2c0a796271","type":"file","file":"Fisiologia 1/Diastole ventricolare.md","x":-920,"y":-160,"width":680,"height":480},
+		{"id":"911e8765cdcf0a7d","type":"file","file":"Fisiologia 1/Ciclo meccanico del cuore.md","x":-1440,"y":-960,"width":400,"height":400,"color":"1"},
+		{"id":"ed87a9fd12d49b67","type":"file","file":"Fisiologia 1/Effetto Windkessel.md","x":40,"y":-204,"width":969,"height":569},
+		{"id":"fe98936c0616ea2b","type":"file","file":"Fisiologia 1/Guadagno dell'accoppiamento EC.md","x":-3193,"y":-338,"width":593,"height":356},
+		{"id":"425a3447d5ee7a46","type":"file","file":"Fisiologia 1/Liberazione del Ca2+ indotta dal Ca2+.md","x":-3096,"y":-1160,"width":400,"height":400},
+		{"id":"b9785043f5aca089","type":"file","file":"Fisiologia 1/Transiente di Ca2+.md","x":-2400,"y":-920,"width":400,"height":400},
+		{"id":"16590c17964fa1c6","type":"file","file":"Fisiologia 1/Elastanza massima attiva (Emax).md","x":-360,"y":-1520,"width":966,"height":432},
+		{"id":"a3f15c8daa3292c4","type":"file","file":"Fisiologia 1/Considerazioni sul lavoro del cuore.md","x":-3302,"y":320,"width":1102,"height":751},
+		{"id":"ec19b6c99268bd16","type":"file","file":"Fisiologia 1/Distribuzione della volemia.md","x":40,"y":680,"width":393,"height":379},
+		{"id":"d14990bec01b83db","type":"file","file":"Fisiologia 1/Funzione generale del circolo nei vasi.md","x":640,"y":660,"width":400,"height":419},
+		{"id":"7dad37cb0d772b10","type":"file","file":"Fisiologia 1/Viscosità del sangue.md","x":-480,"y":1086,"width":400,"height":400},
+		{"id":"946401846f890b8d","type":"file","file":"Fisiologia 1/Caratteristiche del flusso sanguigno.md","x":166,"y":1286,"width":718,"height":338},
+		{"id":"7afe30773a738112","type":"file","file":"Fisiologia 1/Resistenza Periferica Totale (RPT).md","x":-1960,"y":1486,"width":400,"height":171},
+		{"id":"8dd615a84e1a5b73","type":"file","file":"Fisiologia 1/Resistenza del sistema circolatorio.md","x":-1760,"y":996,"width":825,"height":459},
+		{"id":"5e91ddc38a344aed","type":"file","file":"Fisiologia 1/Regime di pressione (sanguigna).md","x":-840,"y":-960,"width":600,"height":400},
+		{"id":"647091a757bea706","type":"file","file":"Fisiologia 1/Regime di flusso (sanguigno).md","x":-480,"y":-520,"width":680,"height":245}
+	],
+	"edges":[
+		{"id":"0e6feda7647385aa","fromNode":"58d1adc90812b8de","fromSide":"right","toNode":"b78f1482ab3a78a0","toSide":"left"},
+		{"id":"4a0aaa51c011bf04","fromNode":"b78f1482ab3a78a0","fromSide":"right","toNode":"57dbbd2c0a796271","toSide":"left"},
+		{"id":"0e5b9bb1ebd1563a","fromNode":"911e8765cdcf0a7d","fromSide":"bottom","toNode":"58d1adc90812b8de","toSide":"top"},
+		{"id":"0faa77f802c9c574","fromNode":"911e8765cdcf0a7d","fromSide":"bottom","toNode":"b78f1482ab3a78a0","toSide":"top"},
+		{"id":"655eef39c60bf541","fromNode":"911e8765cdcf0a7d","fromSide":"bottom","toNode":"57dbbd2c0a796271","toSide":"top"},
+		{"id":"d7729e95c1afa130","fromNode":"57dbbd2c0a796271","fromSide":"right","toNode":"ed87a9fd12d49b67","toSide":"left"},
+		{"id":"88e521d588db79d9","fromNode":"b9785043f5aca089","fromSide":"left","toNode":"fe98936c0616ea2b","toSide":"top"},
+		{"id":"3457dbc42d07a952","fromNode":"b9785043f5aca089","fromSide":"left","toNode":"425a3447d5ee7a46","toSide":"bottom"},
+		{"id":"53fb637217ad48f7","fromNode":"16590c17964fa1c6","fromSide":"bottom","toNode":"ed87a9fd12d49b67","toSide":"top"},
+		{"id":"adb71ef4f6bbe6c3","fromNode":"16590c17964fa1c6","fromSide":"left","toNode":"b9785043f5aca089","toSide":"top"},
+		{"id":"f22a8a12a1fc04c8","fromNode":"ec19b6c99268bd16","fromSide":"right","toNode":"d14990bec01b83db","toSide":"left"},
+		{"id":"36c0351ddd4d4d02","fromNode":"7dad37cb0d772b10","fromSide":"left","toNode":"8dd615a84e1a5b73","toSide":"right"},
+		{"id":"a9fc795912b66787","fromNode":"911e8765cdcf0a7d","fromSide":"left","toNode":"a3f15c8daa3292c4","toSide":"top"},
+		{"id":"bd64b422431691e9","fromNode":"7dad37cb0d772b10","fromSide":"right","toNode":"946401846f890b8d","toSide":"left"},
+		{"id":"944e8b8964e07f2f","fromNode":"8dd615a84e1a5b73","fromSide":"bottom","toNode":"7afe30773a738112","toSide":"right"},
+		{"id":"eea42e8727b42f82","fromNode":"911e8765cdcf0a7d","fromSide":"right","toNode":"5e91ddc38a344aed","toSide":"left"},
+		{"id":"6f045492ad5ccf18","fromNode":"5e91ddc38a344aed","fromSide":"right","toNode":"647091a757bea706","toSide":"top"}
+	]
+}

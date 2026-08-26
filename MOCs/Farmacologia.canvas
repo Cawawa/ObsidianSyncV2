@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"dd6413657f2d3dba","type":"file","file":"Farmacologia/Tossicità selettiva.md","x":-200,"y":-200,"width":400,"height":400},
+		{"id":"742152694a76943b","type":"file","file":"Farmacologia/Farmaci antibatterici.md","x":380,"y":-310,"width":460,"height":620},
+		{"id":"87c99083a6457ba5","type":"file","file":"Farmacologia/Beta-lattamici.md","x":1694,"y":-271,"width":966,"height":991,"color":"1"},
+		{"id":"9e81f7110e79529c","type":"file","file":"Farmacologia/Inibitori della sintesi della parete batterica.md","x":1000,"y":-45,"width":400,"height":90},
+		{"id":"c381a5d80891821a","type":"file","file":"Farmacologia/Anello beta-lattamico.md","x":2080,"y":-840,"width":400,"height":400},
+		{"id":"bfdec33cd2c077d4","type":"file","file":"Farmacologia/Inibitori delle beta-lattamasi.md","x":1441,"y":-834,"width":439,"height":394},
+		{"id":"ac76ad72e6e84fbc","type":"file","file":"Farmacologia/Penicilline.md","x":3640,"y":-1640,"width":1240,"height":2080}
+	],
+	"edges":[
+		{"id":"ed59176c4d35cae4","fromNode":"742152694a76943b","fromSide":"right","toNode":"9e81f7110e79529c","toSide":"left","toEnd":"none"},
+		{"id":"4e0138015bd4239a","fromNode":"9e81f7110e79529c","fromSide":"right","toNode":"87c99083a6457ba5","toSide":"left","toEnd":"none"},
+		{"id":"3b5b959fd456bb07","fromNode":"87c99083a6457ba5","fromSide":"top","toNode":"c381a5d80891821a","toSide":"bottom"},
+		{"id":"892f8523753deb56","fromNode":"87c99083a6457ba5","fromSide":"top","toNode":"bfdec33cd2c077d4","toSide":"bottom"},
+		{"id":"30609c8a9f0164c2","fromNode":"87c99083a6457ba5","fromSide":"right","toNode":"ac76ad72e6e84fbc","toSide":"left"}
+	]
+}

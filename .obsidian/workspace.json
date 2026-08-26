@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "f8ba20298be68a5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "864e0107139281fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a024429b6d55e42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3e40dea5f096b6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test di collegamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test di collegamento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e91973be4d58da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f5129823a40ef7",
+        "type": "tabs",
+        "dimension": 76.441351888668,
+        "children": [
+          {
+            "id": "ce1e17a4dcf82ac0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5effe72adfe7cb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea23f5ff70921a86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e1be2797375f96a1",
+        "type": "tabs",
+        "dimension": 23.55864811133201,
+        "children": [
+          {
+            "id": "e87ea85a25f733bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90e7f6b1cc142ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f57af006e2c851e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e91d21d5753abb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0b2b8ac88e3fd521",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "debb84165caeb82b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f47113509c66ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "27328368fce71443",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2a024429b6d55e42",
+  "lastOpenFiles": [
+    "Farmacologia/Penicilline.md",
+    "MOCs/Farmacologia.canvas",
+    "Test di collegamento.md",
+    "MOCs/Zettel saltabili.md",
+    "Farmacologia/Anello beta-lattamico.md",
+    "Fisiologia 1/Transiente di Ca2+.md",
+    "MOCs/Fisiologia/Fisiologia Cardiocircolatoria.canvas",
+    "Fisiologia 1/Liberazione del Ca2+ indotta dal Ca2+.md",
+    "MOCs/Fisiologia",
+    "MOCs/Fisiologia/Fisiologia renale.canvas",
+    "MOCs/Fisiologia/Fisiologia Respiratoria.canvas",
+    "MOCs/Genetica.canvas",
+    "MOCs/Fisiologia/Neurofisiologia.canvas",
+    "Da approfondire/Fattori che influenzano sulla compliance toraco-polmonare.md",
+    "Da approfondire/Correnti ioniche cardiache.md",
+    "Da approfondire/ADH (vasopressina).md",
+    "Fisiologia 1/Circolazione polmonare.md",
+    "Farmacologia/Farmaci antibatterici.md",
+    "Untitled.canvas",
+    "Fisiologia 1/PdA.md",
+    "Fisiologia 1/Canali Ca-N.md",
+    "Fisiologia 1/Canali voltaggio-dipententi per il calcio.md",
+    "Fisiologia 1/Canali Ca-L.md",
+    "Allegati/Pasted image 20260322180219.png",
+    "Farmacologia/Beta-lattamici.md",
+    "Farmacologia/Inibitori delle beta-lattamasi.md",
+    "Allegati/Pasted image 20260322175233.png",
+    "Allegati/Pasted image 20260322173341.png",
+    "Farmacologia/Inibitori della sintesi della parete batterica.md",
+    "Allegati/Pasted image 20260322170401.png",
+    "Farmacologia/Tossicità selettiva.md",
+    "Genetica medica/Test genetici prenatale.md",
+    "Genetica medica/Sindrome di Klineferter.md",
+    "Riflessi.md",
+    "Legge di Frank-Starling.md"
+  ]
+}

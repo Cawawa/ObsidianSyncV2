@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "39da27390dd0528b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c31edf839a6221e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bcf6021959968ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0243b3133d6e3eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eda843cae56a85b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d74058dc1620c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e4252785b1dc397",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "106b1cdae4dea969",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b69f36e99e3840ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fbf41f7de8e951d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2517d5ecfe72339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MOCs/Fisiologia Respiratoria.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fisiologia Respiratoria"
+            }
+          },
+          {
+            "id": "f593b3becf8c6db1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MOCs/Fisiologia Respiratoria.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fisiologia Respiratoria"
+            }
+          },
+          {
+            "id": "67eb8fde8c97b737",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9962f13ddb8b0206",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MOCs/Fisiologia Respiratoria.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fisiologia Respiratoria"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6bcf6021959968ba",
+  "lastOpenFiles": [
+    "MOCs/Genetica.canvas",
+    "MOCs/Farmacologia.canvas",
+    "Farmacologia",
+    "MOCs/Neurofisiologia.canvas",
+    "Genetica medica/Daltonismo.md",
+    "Genetica medica/Fenomeni di selezione genetica.md",
+    "MOCs/Fisiologia renale.canvas",
+    "Genetica medica/Effetti evolutivi delle mutazioni.md",
+    "MOCs/Fisiologia Respiratoria.canvas",
+    "Genetica medica/Equilibrio mutazione-selezione.md",
+    "Sindrome di Klineferter.md"
+  ]
+}
